@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mainheading{
+    background-color:skyblue;
+    color: aliceblue;
+    text-align: center;
+    padding: 80px;
+    font-size: 1.5rem;
+}
+.front{
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: skyblue;
+}
+h2{
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: rgb(42, 68, 42);
+}
+.back{
+     margin-top: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: skyblue;
+
+}
+
+.html{
+    margin-top: 300px;
+}
+.css{
+    margin-top: 300px;
+}
+.js{
+    margin-top: 300px;
+}
+.rjs{
+    margin-top: 300px;
+}
+.node{
+    margin-top: 300px;
+}
+.express{
+    margin-top: 300px;
+}
+.db{
+    margin-top: 300px;
+}
+
+
+
+h3{ 
+    margin-bottom: 30px;
+    color: rgb(193, 94, 32);
+    font-size: 2rem;
+}
