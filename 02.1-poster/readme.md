@@ -11,7 +11,7 @@ This project recreates the **Black Goose Bistro** webpage using HTML and CSS. Th
 
 🔗 **View Project**
 
-https://pinakapani48.github.io/WEBDEVELOPMENT-TUTLY/day04-black-goose-bistro/
+https://pinakapani48.github.io/WEBDEVELOPMENT-TUTLY/02.1-poster/
 
 ---
 
