@@ -62,17 +62,19 @@ Used to divide the webpage into multiple sections.
 
 ---
 
+
 ## 2. Unordered List
 
-Used to organize technologies.
+Used to organize Frontend and Backend technologies.
 
 ### Syntax
 
 ```html
 <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
+    <li><a href="#html">HTML</a></li>
+    <li><a href="#css">CSS</a></li>
+    <li><a href="#js">JavaScript</a></li>
+    <li><a href="#rjs">ReactJS</a></li>
 </ul>
 ```
 
