@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.img1{
+    float: left;
+    margin: 20px;
+
+}
+p{
+    margin-top: 10px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.img2{
+    float: right;
+    margin: 20px;
+}
