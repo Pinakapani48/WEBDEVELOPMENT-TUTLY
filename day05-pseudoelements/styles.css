@@ -1,0 +1,46 @@
+
+/*
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+*/
+ul{
+    list-style-type: none;
+    list-style-position:outside;
+    font-size: 2rem;
+    color: aqua;
+}
+p{
+    font-size: 2rem;
+    margin: 10px 50px;
+}
+li:nth-child(even){
+    color: green;
+}
+li:last-child{
+    color: gold;
+}
+li::before{
+    content: '👉';
+    margin-right: 10px;
+}
+li::after{
+    content: '😊';
+}
+
+.para1::first-letter{
+    font-weight: bold;
+    font-size: 4rem;
+    color: crimson;
+}
+.para2{
+    margin-top: 100px;
+}
+
+.para2::first-line{
+    color: blueviolet;
+}
