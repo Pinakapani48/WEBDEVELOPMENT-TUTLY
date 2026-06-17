@@ -13,14 +13,6 @@ This project introduces background images and button styling. It demonstrates ho
 https://pinakapani48.github.io/WEBDEVELOPMENT-TUTLY/03.2-vide-ocean/
 
 ---
-
-🔗 **View Project**
-
-<a href="https://pinakapani48.github.io/WEBDEVELOPMENT-TUTLY/03.2-vide-ocean/" target="_blank">
-03.2 - Vide Ocean
-</a>
-
----
  
 ## Project Structure
 
